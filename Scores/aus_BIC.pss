@@ -1,0 +1,96 @@
+VAR Variable0
+-436.70801
+-435.91692 Variable4
+-434.82008 Variable5
+VAR Variable1
+-496.25231
+-496.22915 Variable2
+-482.48371 Variable6
+-491.71416 Variable7
+-493.50924 Variable14
+VAR Variable2
+-400.08052
+-400.05736 Variable1
+-394.27920 Variable7
+-399.23801 Variable8
+-398.37574 Variable14
+VAR Variable3
+-396.90223
+-395.14431 Variable7
+-391.78682 Variable8
+-389.28052 Variable14
+VAR Variable4
+-747.95829
+-747.16721 Variable0
+-661.33109 Variable5
+-720.84392 Variable7
+-658.36877 Variable5 Variable7
+-736.03075 Variable8
+-657.28187 Variable5 Variable8
+-709.47294 Variable14
+-650.24462 Variable5 Variable14
+VAR Variable5
+-580.23802
+-578.35010 Variable0
+-493.61082 Variable4
+-566.27862 Variable7
+-564.81165 Variable14
+VAR Variable6
+-142.86952
+-129.10092 Variable1
+-138.15776 Variable7
+-141.27387 Variable14
+VAR Variable7
+-480.79760
+-476.25945 Variable1
+-474.99629 Variable2
+-479.03969 Variable3
+-453.68323 Variable4
+-466.83821 Variable5
+-476.08585 Variable6
+-416.92640 Variable8
+-408.02632 Variable4 Variable8
+-408.72326 Variable5 Variable8
+-478.11116 Variable11
+-280.46124 Variable14
+-266.86739 Variable8 Variable14
+-273.13355 Variable11 Variable14
+VAR Variable8
+-474.26794
+-473.42543 Variable2
+-469.15253 Variable3
+-462.34040 Variable4
+-410.39673 Variable7
+-453.42921 Variable11
+-400.56375 Variable7 Variable11
+-402.78937 Variable14
+-389.19552 Variable7 Variable14
+-390.67895 Variable11 Variable14
+VAR Variable9
+-27.75394
+VAR Variable10
+-479.09934
+VAR Variable11
+-246.16966
+-243.48321 Variable7
+-225.33092 Variable8
+-240.57854 Variable7 Variable14
+VAR Variable12
+-62.05577
+VAR Variable13
+-27.75394
+VAR Variable14
+-477.34589
+-474.60282 Variable1
+-475.64111 Variable2
+-469.72418 Variable3
+-438.86053 Variable4
+-461.91952 Variable5
+-475.75024 Variable6
+-277.00952 Variable7
+-276.25836 Variable4 Variable7
+-405.86732 Variable8
+-389.98362 Variable4 Variable8
+-396.60664 Variable5 Variable8
+-255.80831 Variable7 Variable8
+-274.10485 Variable7 Variable11

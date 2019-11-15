@@ -1,0 +1,580 @@
+META pss_version = 0.1
+META input_file=horse.csv
+META num_records=300
+META parent_limit=4
+META score_type=bic
+META ess=1
+VAR Variable0
+META arity=2
+META values=0 1 
+-199.751740 Variable12 Variable20 
+-202.963242 Variable22 
+-204.342987 
+-203.856247 Variable8 
+-200.540512 Variable12 
+-200.591965 Variable7 
+-202.138351 Variable11 
+-203.354843 Variable10 
+-201.963181 Variable20 
+-199.855743 Variable7 Variable20 
+-200.525909 Variable22 Variable24 
+-199.432800 Variable11 Variable12 
+-202.003281 Variable24 
+-149.008057 Variable12 Variable23 
+-143.135773 Variable22 Variable23 
+-149.779953 Variable23 
+VAR Variable1
+META arity=2
+META values=0 1 
+-86.482750 
+-83.964523 Variable17 
+-73.474838 Variable4 
+-72.640137 Variable4 Variable14 
+-82.980759 Variable5 
+-86.196762 Variable3 
+-83.661850 Variable14 
+-73.268341 Variable4 Variable16 
+VAR Variable2
+META arity=2
+META values=0 1 
+-210.736176 
+VAR Variable3
+META arity=2
+META values=1 0 
+-203.246323 Variable9 
+-203.630661 Variable1 
+-203.916595 
+VAR Variable4
+META arity=2
+META values=0 1 
+-189.383408 Variable22 
+-174.555603 Variable1 Variable22 Variable23 
+-179.028656 Variable11 Variable18 
+-170.499252 Variable1 Variable9 Variable18 
+-171.772858 Variable1 Variable18 
+-203.706467 Variable21 
+-186.268967 Variable18 
+-202.897018 Variable16 
+-189.579926 Variable1 Variable16 
+-187.565598 Variable7 
+-203.916595 
+-178.855713 Variable7 Variable11 
+-203.636948 Variable12 
+-191.963669 Variable11 
+-203.258713 Variable6 
+-180.918732 Variable5 Variable9 
+-182.749924 Variable11 Variable22 Variable23 
+-185.428574 Variable9 
+-197.342270 Variable5 
+-190.908737 Variable1 
+-202.769699 Variable20 
+-178.693863 Variable7 Variable11 Variable22 
+-189.664154 Variable1 Variable5 
+-176.704193 Variable1 Variable11 
+-171.919586 Variable1 Variable9 
+-187.485504 Variable7 Variable20 
+-177.200287 Variable1 Variable7 
+-203.089401 Variable0 Variable6 
+-184.234131 Variable5 Variable7 
+-183.950165 Variable5 Variable18 
+-185.194489 Variable7 Variable23 
+-182.697754 Variable9 Variable11 
+-185.463440 Variable18 Variable23 
+-179.634857 Variable5 Variable9 Variable22 
+-183.134552 Variable22 Variable23 
+-182.865387 Variable11 Variable22 
+-195.272675 Variable5 Variable23 
+-197.849167 Variable23 
+-179.700470 Variable7 Variable9 
+-182.988617 Variable18 Variable22 
+-173.128937 Variable1 Variable11 Variable22 
+-186.149628 Variable5 Variable22 
+-180.578384 Variable9 Variable22 
+-180.279144 Variable7 Variable22 
+-184.298355 Variable9 Variable23 
+-176.014343 Variable1 Variable7 Variable22 
+-178.805511 Variable1 Variable22 
+-178.232132 Variable7 Variable11 Variable18 
+-180.467438 Variable9 Variable18 
+-180.803070 Variable7 Variable18 
+-181.560669 Variable18 Variable22 Variable23 
+-166.423187 Variable1 Variable11 Variable18 
+-186.059875 Variable1 Variable23 
+-189.116577 Variable5 Variable11 
+-169.774658 Variable1 Variable9 Variable11 
+-169.582825 Variable1 Variable7 Variable11 
+VAR Variable5
+META arity=2
+META values=0 1 
+-183.497406 
+-179.995529 Variable1 
+-183.458786 Variable11 
+-180.739243 Variable14 
+-176.923080 Variable4 
+-176.498169 Variable4 Variable14 
+VAR Variable6
+META arity=2
+META values=0 1 
+-201.134857 Variable10 Variable12 
+-201.322006 Variable22 
+-209.293549 
+-205.758942 Variable12 Variable16 
+-208.635605 Variable4 
+-204.554489 Variable8 
+-188.533081 Variable7 Variable11 
+-206.223984 Variable12 
+-189.478928 Variable7 
+-204.938171 Variable11 Variable12 
+-207.261276 Variable23 
+-198.857849 Variable8 Variable22 
+VAR Variable7
+META arity=2
+META values=0 1 
+-178.125183 Variable6 Variable9 
+-181.787994 Variable12 Variable22 
+-181.785706 Variable10 Variable12 Variable18 
+-183.005463 Variable10 Variable12 
+-196.735214 Variable22 
+-182.408600 Variable12 Variable18 
+-194.444839 Variable0 Variable18 
+-190.163879 Variable4 Variable18 
+-185.454651 Variable8 Variable18 
+-195.629684 Variable18 
+-195.775726 Variable9 Variable17 
+-193.951218 Variable8 
+-207.557709 
+-177.035202 Variable6 Variable12 Variable18 
+-191.206650 Variable4 
+-203.806686 Variable0 
+-178.305786 Variable4 Variable12 
+-189.374374 Variable12 
+-196.209335 Variable9 
+-185.140228 Variable8 Variable12 
+-190.727493 Variable0 Variable4 
+-177.383698 Variable4 Variable6 
+-187.743088 Variable6 
+-187.068054 Variable11 Variable12 
+-184.790039 Variable8 Variable9 
+-177.505951 Variable9 Variable12 
+-180.701721 Variable4 Variable8 
+-195.313446 Variable0 Variable9 
+-180.631714 Variable6 Variable18 
+-177.238678 Variable6 Variable12 
+-176.957169 Variable4 Variable10 Variable12 
+-177.407303 Variable4 Variable9 Variable12 
+-172.163025 Variable4 Variable6 Variable12 
+-168.648148 Variable6 Variable9 Variable12 
+-178.529785 Variable8 Variable12 Variable22 
+-185.626526 Variable6 Variable22 
+-194.333527 Variable22 Variable23 
+-187.154221 Variable0 Variable6 
+-196.292038 Variable17 Variable22 
+-194.391296 Variable18 Variable23 
+-188.741577 Variable4 Variable23 
+-186.016235 Variable12 Variable23 
+-185.744446 Variable6 Variable23 
+-201.396286 Variable23 
+-194.224579 Variable18 Variable22 
+-187.630981 Variable4 Variable22 
+-193.860245 Variable9 Variable22 
+-180.180283 Variable6 Variable8 Variable18 
+-177.340179 Variable6 Variable8 Variable9 
+-182.385742 Variable6 Variable8 
+-177.212738 Variable4 Variable6 Variable8 
+-195.122574 Variable9 Variable23 
+-187.298401 Variable8 Variable22 
+-176.558716 Variable9 Variable10 Variable12 
+-194.828278 Variable9 Variable18 
+-193.276642 Variable8 Variable11 
+-185.977509 Variable6 Variable11 
+-190.481262 Variable4 Variable9 
+VAR Variable8
+META arity=2
+META values=0 1 
+-210.689423 
+-210.202682 Variable0 
+-203.297226 Variable12 
+-205.950363 Variable6 
+-198.262756 Variable11 Variable12 
+-197.082932 Variable7 
+-203.159546 Variable12 Variable23 
+-205.799866 Variable6 Variable23 
+-206.013107 Variable23 
+VAR Variable9
+META arity=2
+META values=0 1 
+-162.551010 Variable22 
+-161.353134 Variable16 Variable22 
+-155.555481 Variable4 Variable7 
+-174.768890 
+-153.293381 Variable18 
+-156.280869 Variable4 
+-170.996628 Variable16 
+-158.727051 Variable7 Variable11 
+-163.420578 Variable7 
+-166.727463 Variable11 
+-174.098618 Variable3 
+-166.339722 Variable11 Variable16 
+-165.719757 Variable3 Variable11 
+-172.976425 Variable10 
+-147.491882 Variable4 Variable18 
+-149.616241 Variable16 Variable18 
+-161.096039 Variable7 Variable17 
+-152.491913 Variable7 Variable18 
+-162.035919 Variable7 Variable16 
+-173.418503 Variable23 
+-148.907928 Variable18 Variable22 
+-158.590240 Variable11 Variable22 
+-153.745972 Variable4 Variable22 
+-161.748810 Variable22 Variable24 
+-150.509613 Variable11 Variable18 
+-152.932770 Variable10 Variable18 
+-159.675995 Variable7 Variable22 
+-163.142944 Variable7 Variable10 
+VAR Variable10
+META arity=2
+META values=1 0 
+-199.625717 Variable16 Variable23 
+-210.064804 Variable22 
+-210.769379 
+-208.717026 Variable13 
+-210.061584 Variable12 Variable14 
+-209.781296 Variable0 
+-202.741379 Variable16 
+-198.824509 Variable11 
+-205.213501 Variable12 Variable13 
+-206.641510 Variable7 Variable12 
+-208.976913 Variable9 
+-207.921173 Variable6 Variable12 
+-198.498825 Variable11 Variable23 
+-208.000168 Variable20 
+-203.288864 Variable23 
+VAR Variable11
+META arity=2
+META values=0 1 
+-174.028427 Variable16 Variable23 
+-192.806137 Variable22 
+-186.409653 Variable17 Variable23 
+-187.192230 Variable13 Variable20 
+-190.322937 Variable13 Variable18 
+-192.415894 Variable12 Variable17 
+-191.508347 Variable15 
+-193.105560 
+-192.134567 Variable18 
+-192.427902 Variable17 
+-181.152573 Variable4 
+-190.900925 Variable0 
+-171.986359 Variable10 Variable16 
+-170.219421 Variable9 Variable16 
+-184.785110 Variable9 Variable14 
+-174.876389 Variable16 
+-190.445663 Variable14 
+-178.709229 Variable4 Variable14 
+-189.836197 Variable0 Variable14 
+-185.064072 Variable9 
+-189.367889 Variable8 Variable12 
+-190.364853 Variable13 
+-193.066879 Variable5 
+-174.703278 Variable15 Variable16 
+-180.561768 Variable4 Variable13 
+-169.070465 Variable4 Variable16 
+-189.950684 Variable12 Variable13 
+-178.221619 Variable10 Variable15 
+-181.160629 Variable10 
+-190.253098 Variable20 
+-192.096100 Variable7 Variable12 
+-186.655807 Variable23 
+-183.603409 Variable9 Variable23 
+-173.557983 Variable4 Variable10 
+-178.534531 Variable9 Variable10 
+VAR Variable12
+META arity=2
+META values=0 1 
+-205.153900 
+-204.874252 Variable4 
+-201.351486 Variable0 
+-203.669647 Variable14 Variable17 
+-202.960846 Variable10 Variable14 
+-204.554550 Variable14 
+-186.970627 Variable7 
+-196.394012 Variable6 Variable10 
+-202.084396 Variable6 
+-204.168793 Variable10 Variable13 
+-201.316528 Variable6 Variable16 
+-197.761765 Variable8 
+-196.875214 Variable1 Variable8 
+-186.712555 Variable7 Variable16 
+-200.520554 Variable0 Variable6 
+-203.632492 Variable23 
+-201.369492 Variable22 
+-186.422333 Variable7 Variable22 
+-199.441986 Variable6 Variable11 
+-180.010620 Variable7 Variable10 
+-191.315826 Variable8 Variable11 
+-184.127441 Variable7 Variable11 
+VAR Variable13
+META arity=2
+META values=0 1 
+-201.331390 Variable10 Variable12 
+-197.977280 Variable16 Variable20 
+-205.753830 Variable15 
+-195.331238 Variable14 Variable16 
+-206.609955 
+-198.562057 Variable16 
+-198.531113 Variable14 
+-203.869186 Variable11 
+-196.625153 Variable15 Variable16 
+-204.557480 Variable10 
+-203.766174 Variable11 Variable20 
+VAR Variable14
+META arity=2
+META values=0 1 
+-206.707611 Variable10 Variable12 
+-207.638062 Variable12 Variable17 
+-210.255707 
+-209.538849 Variable12 Variable16 
+-207.434860 Variable1 
+-209.680466 Variable16 
+-210.223190 Variable17 
+-202.176987 Variable13 
+-209.656357 Variable12 
+-207.595871 Variable11 
+-207.497543 Variable5 
+-202.067963 Variable5 Variable13 
+-206.170746 Variable1 Variable11 
+-205.002930 Variable5 Variable11 
+VAR Variable15
+META arity=2
+META values=0 1 
+-93.658508 Variable13 Variable18 
+-96.972092 Variable18 
+-97.304794 Variable13 
+-96.563644 Variable11 
+-98.160851 
+-91.606979 Variable19 
+-97.262497 Variable20 
+-96.560226 Variable27 
+VAR Variable16
+META arity=2
+META values=0 1 
+-187.932434 Variable11 Variable13 
+-198.777069 Variable13 Variable17 
+-197.069061 Variable10 Variable17 
+-207.557709 
+-203.014450 Variable17 
+-206.982407 Variable14 
+-197.594513 Variable9 Variable13 
+-197.207245 Variable10 Variable13 
+-199.509872 Variable13 
+-189.328537 Variable11 
+-199.529648 Variable10 
+-203.785385 Variable9 
+-206.538071 Variable4 
+-206.331635 Variable1 Variable4 
+-202.615479 Variable17 Variable20 
+-188.940796 Variable9 Variable11 
+-206.448410 Variable23 
+VAR Variable17
+META arity=2
+META values=0 1 
+-206.939545 
+-204.421310 Variable1 
+-206.250931 Variable9 Variable14 
+-206.906967 Variable14 
+-202.396286 Variable16 
+-206.261887 Variable11 
+-206.022034 Variable12 Variable14 
+-206.053894 Variable11 Variable12 
+VAR Variable18
+META arity=2
+META values=0 1 
+-196.602524 Variable22 
+-210.469330 
+-209.280563 Variable15 
+-198.541306 Variable7 
+-209.498337 Variable11 
+-192.821640 Variable4 
+-188.993759 Variable9 
+-182.959488 Variable9 Variable22 
+-210.438400 Variable23 
+-187.612579 Variable7 Variable9 
+-190.207764 Variable4 Variable22 
+-194.091888 Variable7 Variable22 
+-191.778748 Variable4 Variable7 
+-184.032532 Variable4 Variable9 
+VAR Variable19
+META arity=2
+META values=0 1 
+-136.814056 Variable20 Variable27 
+-163.866547 Variable15 Variable21 
+-166.087692 Variable21 
+-174.288193 Variable22 
+-175.806366 
+-169.252487 Variable15 
+-167.188629 Variable24 Variable25 
+-169.080490 Variable25 
+-166.099091 Variable15 Variable25 
+-165.367828 Variable21 Variable24 
+-172.590485 Variable18 Variable24 
+-172.823349 Variable24 
+-139.361542 Variable25 Variable27 
+-139.858490 Variable15 Variable27 
+-140.391037 Variable27 
+-174.277130 Variable22 Variable23 
+-163.173920 Variable21 Variable25 
+VAR Variable20
+META arity=2
+META values=0 1 
+-206.338074 Variable11 Variable13 
+-209.293549 
+-206.913742 Variable0 
+-208.395187 Variable15 
+-206.441086 Variable11 
+-206.524277 Variable10 
+-208.146591 Variable4 
+-190.187439 Variable0 Variable21 
+-168.491547 Variable19 Variable27 
+-172.068527 Variable27 
+-170.316742 Variable0 Variable27 
+-190.397751 Variable21 
+VAR Variable21
+META arity=2
+META values=0 1 
+-116.852135 
+-116.641953 Variable4 
+-107.133469 Variable19 
+-81.806686 Variable27 
+-97.956345 Variable20 
+-90.206268 Variable19 Variable20 
+VAR Variable22
+META arity=2
+META values=0 1 
+-200.348846 Variable0 Variable19 
+-187.183990 Variable12 Variable18 
+-188.006897 Variable4 Variable18 
+-194.103363 Variable7 Variable17 
+-205.153900 
+-203.774216 Variable0 
+-201.369492 Variable12 
+-194.331467 Variable7 
+-204.854538 Variable11 
+-197.182419 Variable6 
+-204.449326 Variable10 
+-190.620712 Variable4 
+-190.174881 Variable0 Variable4 
+-190.584442 Variable9 Variable12 
+-193.783234 Variable7 Variable12 
+-192.936020 Variable9 
+-190.114990 Variable4 Variable12 
+-190.151093 Variable0 Variable9 
+-203.635788 Variable19 
+-188.052124 Variable6 Variable18 
+-191.287155 Variable18 
+-185.030975 Variable0 Variable19 Variable23 
+-189.882050 Variable7 Variable18 
+-187.551987 Variable0 Variable23 
+-182.123718 Variable0 Variable9 Variable23 
+-193.905914 Variable23 Variable25 
+-190.004486 Variable18 Variable24 
+-203.585068 Variable24 
+-202.107635 Variable0 Variable24 
+-192.322388 Variable19 Variable23 
+-184.883240 Variable18 Variable23 
+-187.133331 Variable7 Variable23 
+-189.916565 Variable6 Variable23 
+-179.481445 Variable4 Variable23 
+-190.586823 Variable7 Variable9 
+-187.761063 Variable9 Variable24 
+-183.994537 Variable0 Variable18 Variable23 
+-188.304352 Variable4 Variable6 
+-186.901764 Variable9 Variable18 
+-188.312561 Variable6 Variable9 
+-194.196091 Variable23 
+-187.044983 Variable4 Variable7 
+-185.962952 Variable6 Variable9 Variable23 
+-186.074966 Variable9 Variable23 
+-194.784348 Variable0 Variable6 
+-188.085754 Variable4 Variable9 
+VAR Variable23
+META arity=2
+META values=0 1 
+-190.529633 Variable10 Variable12 
+-199.445526 
+-198.336227 Variable16 
+-144.882492 Variable0 
+-194.769211 Variable8 
+-189.944214 Variable7 Variable11 
+-197.924057 Variable12 
+-193.284103 Variable7 
+-192.995773 Variable11 
+-197.413254 Variable6 
+-191.964951 Variable10 
+-193.378036 Variable4 
+-139.765457 Variable0 Variable4 
+-190.545715 Variable11 Variable12 
+-191.891052 Variable4 Variable8 
+-198.095078 Variable9 
+-144.054077 Variable0 Variable10 
+-194.382202 Variable6 Variable16 
+-199.414597 Variable18 
+-180.422516 Variable4 Variable24 
+-128.660248 Variable0 Variable22 
+-137.232056 Variable0 Variable4 Variable24 
+-184.166000 Variable24 
+-182.009277 Variable8 Variable24 
+-182.176422 Variable7 Variable24 
+-137.529388 Variable0 Variable24 
+-141.751389 Variable0 Variable6 
+-190.477173 Variable8 Variable10 
+-178.207550 Variable22 Variable24 
+-188.476715 Variable19 Variable22 
+-183.645096 Variable9 Variable24 
+-182.629196 Variable16 Variable24 
+-180.124542 Variable11 Variable24 
+-186.760040 Variable11 Variable22 
+-182.238892 Variable4 Variable22 
+-127.458366 Variable0 Variable8 Variable22 
+-187.281189 Variable8 Variable22 
+-186.391876 Variable10 Variable22 
+-186.086029 Variable7 Variable22 
+-190.913025 Variable4 Variable7 
+-188.487656 Variable22 
+-179.660034 Variable10 Variable24 
+-187.356689 Variable7 Variable10 
+-189.642456 Variable4 Variable10 
+-191.203339 Variable6 Variable11 
+-190.156281 Variable8 Variable11 
+VAR Variable24
+META arity=2
+META values=0 1 
+-197.297699 Variable0 Variable19 
+-200.538666 
+-198.198898 Variable0 
+-198.167496 Variable9 Variable22 
+-197.555588 Variable19 
+-196.532318 Variable0 Variable22 
+-198.969711 Variable22 
+-196.730469 Variable0 Variable2 Variable19 
+-185.259079 Variable23 
+VAR Variable25
+META arity=2
+META values=0 1 
+-36.074791 
+-29.348925 Variable19 
+-35.095261 Variable26 
+VAR Variable26
+META arity=2
+META values=0 1 
+-9.554040 
+-8.574511 Variable25 
+VAR Variable27
+META arity=2
+META values=0 1 
+-158.060104 Variable21 
+-155.880539 Variable20 
+-193.105560 
+-191.504929 Variable15 
+-157.690231 Variable19 
+-114.046844 Variable19 Variable20 
+-137.062347 Variable19 Variable21 
+-141.251984 Variable20 Variable21 

@@ -1,0 +1,96 @@
+VAR Variable0
+-275.35069
+-270.47765 Variable7
+-273.79643 Variable11
+-275.19769 Variable13
+VAR Variable1
+-172.72997
+-171.31061 Variable8
+-152.34840 Variable12
+-163.41036 Variable13
+VAR Variable2
+-331.76145
+-313.98762 Variable8
+-331.12280 Variable9
+-305.43328 Variable13
+VAR Variable3
+-233.59870
+VAR Variable4
+-173.21256
+-172.20181 Variable13
+VAR Variable5
+-116.28704
+VAR Variable6
+-203.18099
+VAR Variable7
+-259.75157
+-254.87853 Variable0
+-250.31827 Variable8
+-259.33721 Variable9
+-247.60980 Variable10
+-258.58044 Variable12
+-245.17660 Variable13
+VAR Variable8
+-174.18334
+-172.76397 Variable1
+-156.40952 Variable2
+-164.75004 Variable7
+-173.08074 Variable9
+-169.47162 Variable10
+-166.32048 Variable12
+-153.05317 Variable13
+VAR Variable9
+-139.10798
+-138.46934 Variable2
+-138.69361 Variable7
+-138.00538 Variable8
+-115.60795 Variable10
+-137.73947 Variable12
+-126.43399 Variable13
+VAR Variable10
+-246.69075
+-234.54899 Variable7
+-241.97903 Variable8
+-223.19072 Variable9
+-243.85252 Variable12
+-232.20811 Variable13
+VAR Variable11
+-301.80141
+-300.24715 Variable0
+-278.45510 Variable13
+VAR Variable12
+-233.95222
+-213.57065 Variable1
+-232.78109 Variable7
+-226.08937 Variable8
+-232.58372 Variable9
+-231.11399 Variable10
+-201.00221 Variable13
+-193.18698 Variable1 Variable13
+VAR Variable13
+-188.50556
+-188.35256 Variable0
+-179.18595 Variable1
+-162.17740 Variable2
+-160.82477 Variable1 Variable2
+-187.49481 Variable4
+-173.93059 Variable7
+-173.38022 Variable1 Variable7
+-167.37539 Variable8
+-165.41824 Variable1 Variable8
+-175.83157 Variable9
+-171.87853 Variable1 Variable9
+-164.59123 Variable8 Variable9
+-174.02292 Variable10
+-169.38024 Variable1 Variable10
+-161.12333 Variable2 Variable10
+-167.17644 Variable8 Variable10
+-165.15926 Variable11
+-158.97137 Variable1 Variable11
+-154.33272 Variable8 Variable11
+-162.68089 Variable9 Variable11
+-155.55555 Variable12
+-155.11568 Variable2 Variable12
+-152.86692 Variable8 Variable12
+-152.42901 Variable9 Variable12
+-149.11064 Variable11 Variable12

@@ -1,0 +1,28 @@
+VAR Variable0
+-181.98942
+-146.28708 Variable1
+-121.87754 Variable2
+-150.09486 Variable3
+-166.63356 Variable5
+VAR Variable1
+-182.93920
+-147.23687 Variable0
+-168.58949 Variable2
+-160.82490 Variable3
+-182.57443 Variable5
+VAR Variable2
+-203.78744
+-143.67557 Variable0
+-189.43774 Variable1
+-186.18867 Variable3
+VAR Variable3
+-84.12554
+-52.23098 Variable0
+-62.01124 Variable1
+-66.52677 Variable2
+VAR Variable4
+-32.48310
+VAR Variable5
+-59.80844
+-44.45258 Variable0
+-59.44367 Variable1
